@@ -1,5 +1,5 @@
 # sallys-resumes
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title><meta name="RESUME"
